@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUSr/u+RCtk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadin\\Desktop\\Hw3 Assignments\\SmallerNum\\SmallerNum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

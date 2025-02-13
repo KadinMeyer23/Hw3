@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\bin\Debug\net8.0\Vins Fletcher Arrows.exe
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\bin\Debug\net8.0\Vins Fletcher Arrows.deps.json
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\bin\Debug\net8.0\Vins Fletcher Arrows.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\bin\Debug\net8.0\Vins Fletcher Arrows.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\bin\Debug\net8.0\Vins Fletcher Arrows.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\refint\Vins Fletcher Arrows.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\Vins Fletcher Arrows.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\Vins Fletcher Arrows\obj\Debug\net8.0\ref\Vins Fletcher Arrows.dll

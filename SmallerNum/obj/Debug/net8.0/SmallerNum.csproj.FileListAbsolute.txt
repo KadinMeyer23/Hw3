@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\bin\Debug\net8.0\SmallerNum.exe
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\bin\Debug\net8.0\SmallerNum.deps.json
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\bin\Debug\net8.0\SmallerNum.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\bin\Debug\net8.0\SmallerNum.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\bin\Debug\net8.0\SmallerNum.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\refint\SmallerNum.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\SmallerNum.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\SmallerNum\obj\Debug\net8.0\ref\SmallerNum.dll
