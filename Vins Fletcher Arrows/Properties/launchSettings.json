@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vins Fletcher Arrows": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
