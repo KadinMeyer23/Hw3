@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LengthMultiplier": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

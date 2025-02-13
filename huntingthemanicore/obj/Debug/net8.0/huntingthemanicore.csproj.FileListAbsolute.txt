@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\bin\Debug\net8.0\huntingthemanicore.exe
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\bin\Debug\net8.0\huntingthemanicore.deps.json
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\bin\Debug\net8.0\huntingthemanicore.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\bin\Debug\net8.0\huntingthemanicore.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\bin\Debug\net8.0\huntingthemanicore.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\refint\huntingthemanicore.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\huntingthemanicore.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\huntingthemanicore\obj\Debug\net8.0\ref\huntingthemanicore.dll

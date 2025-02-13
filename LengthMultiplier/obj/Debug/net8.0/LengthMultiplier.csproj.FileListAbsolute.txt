@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\bin\Debug\net8.0\LengthMultiplier.exe
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\bin\Debug\net8.0\LengthMultiplier.deps.json
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\bin\Debug\net8.0\LengthMultiplier.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\bin\Debug\net8.0\LengthMultiplier.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\bin\Debug\net8.0\LengthMultiplier.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\refint\LengthMultiplier.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\LengthMultiplier.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\LengthMultiplier\obj\Debug\net8.0\ref\LengthMultiplier.dll
