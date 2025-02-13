@@ -1,0 +1,14 @@
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\bin\Debug\net8.0\AbsoluteValueCalc.exe
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\bin\Debug\net8.0\AbsoluteValueCalc.deps.json
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\bin\Debug\net8.0\AbsoluteValueCalc.runtimeconfig.json
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\bin\Debug\net8.0\AbsoluteValueCalc.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\bin\Debug\net8.0\AbsoluteValueCalc.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.AssemblyInfo.cs
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.csproj.CoreCompileInputs.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\refint\AbsoluteValueCalc.dll
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.pdb
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\AbsoluteValueCalc.genruntimeconfig.cache
+C:\Users\kadin\Desktop\Hw3 Assignments\AbsoluteValueCalc\obj\Debug\net8.0\ref\AbsoluteValueCalc.dll

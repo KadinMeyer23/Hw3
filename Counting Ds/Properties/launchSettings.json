@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Counting Ds": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
